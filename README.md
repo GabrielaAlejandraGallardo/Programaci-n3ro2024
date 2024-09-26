@@ -1,7 +1,7 @@
  Autoevaluación: https://forms.gle/x9766k4MjtAbLkiVA
 
 
-Evaluación Estructuras de Control de Programación:
+Evaluación Estructuras de Control de Programación: https://forms.gle/c9zKRKQc5MFYDL9e9
 Situación problemática que puedes resolver con diccionarios y estructuras de control en Python:
 
 Situación:
