@@ -2,7 +2,7 @@
 
 
 Evaluación Estructuras de Control de Programación:
-Okay, aquí te va una situación problemática que puedes resolver con diccionarios y estructuras de control en Python:
+Situación problemática que puedes resolver con diccionarios y estructuras de control en Python:
 
 Situación:
 
