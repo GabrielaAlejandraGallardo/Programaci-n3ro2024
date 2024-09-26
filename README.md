@@ -15,7 +15,6 @@ Eliminar un producto del inventario.
 Mostrar todos los productos en una categoría específica.
 Mostrar el producto con el precio más alto.
 Solución:
-
-Puedes usar un diccionario para representar el inventario, donde cada clave es el nombre del producto y el valor es otro diccionario con la información del producto.
+Debes usar un diccionario para representar el inventario, donde cada clave es el nombre del producto y el valor es otro diccionario con la información del producto.
 
 Aquí te dejo un ejemplo de cómo podrías implementar este programa:
