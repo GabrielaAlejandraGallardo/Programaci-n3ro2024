@@ -21,3 +21,6 @@ Aquí te dejo un ejemplo de cómo podrías implementar este programa:
 
 
 Evaluación Programación 21 de Noviembre de 2024: https://forms.gle/iGUjkQEfPawDsvaY8
+
+
+Recuperatorio  https://forms.gle/4vwd9JYK8iZmPtoD7
